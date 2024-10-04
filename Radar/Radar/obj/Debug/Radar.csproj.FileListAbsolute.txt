@@ -1,0 +1,16 @@
+D:\C#\Radar\Radar\bin\Debug\Radar.exe.config
+D:\C#\Radar\Radar\bin\Debug\Radar.exe
+D:\C#\Radar\Radar\bin\Debug\Radar.pdb
+D:\C#\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+D:\C#\Radar\Radar\obj\Debug\Radar.MainForm.resources
+D:\C#\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+D:\C#\Radar\Radar\obj\Debug\Radar.exe
+D:\C#\Radar\Radar\obj\Debug\Radar.pdb
+E:\C#\Radar\Radar\bin\Debug\Radar.exe.config
+E:\C#\Radar\Radar\bin\Debug\Radar.exe
+E:\C#\Radar\Radar\bin\Debug\Radar.pdb
+E:\C#\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+E:\C#\Radar\Radar\obj\Debug\Radar.MainForm.resources
+E:\C#\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+E:\C#\Radar\Radar\obj\Debug\Radar.exe
+E:\C#\Radar\Radar\obj\Debug\Radar.pdb

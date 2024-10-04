@@ -1,0 +1,16 @@
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).exe.config
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).exe
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).pdb
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).csprojResolveAssemblyReference.cache
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio_2__Operadores_Logicos_.MainForm.resources
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).csproj.GenerateResource.Cache
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).exe
+D:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).pdb
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).csprojResolveAssemblyReference.cache
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio_2__Operadores_Logicos_.MainForm.resources
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).csproj.GenerateResource.Cache
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).exe
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).exe.config
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).exe
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\bin\Debug\Exercicio 2 (Operadores Logicos).pdb
+E:\C#\Exercicio 2 (Operadores Logicos)\Exercicio 2 (Operadores Logicos)\obj\Debug\Exercicio 2 (Operadores Logicos).pdb

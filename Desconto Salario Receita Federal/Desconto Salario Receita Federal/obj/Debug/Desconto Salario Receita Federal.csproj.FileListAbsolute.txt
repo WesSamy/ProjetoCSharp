@@ -1,0 +1,24 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto_Salario_Receita_Federal.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.pdb
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe.config
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.pdb
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csprojResolveAssemblyReference.cache
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto_Salario_Receita_Federal.MainForm.resources
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csproj.GenerateResource.Cache
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.exe
+D:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.pdb
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe.config
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.exe
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\bin\Debug\Desconto Salario Receita Federal.pdb
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csprojResolveAssemblyReference.cache
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto_Salario_Receita_Federal.MainForm.resources
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.csproj.GenerateResource.Cache
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.exe
+E:\C#\Desconto Salario Receita Federal\Desconto Salario Receita Federal\obj\Debug\Desconto Salario Receita Federal.pdb

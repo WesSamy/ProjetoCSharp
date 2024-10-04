@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.pdb
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.exe.config
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.exe
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\bin\Debug\salarioLiquidoDouble.pdb
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.csprojResolveAssemblyReference.cache
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.MainForm.resources
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.csproj.GenerateResource.Cache
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.exe
+D:\C#\salarioLiquidoDouble\salarioLiquidoDouble\obj\Debug\salarioLiquidoDouble.pdb

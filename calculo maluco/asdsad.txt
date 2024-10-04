@@ -1,0 +1,5 @@
+				dTMA = vMF + (vMA *0.93f) + vMG;
+				dTMF = vMA + (vMF *0.93f) + vMG;
+				dTM  = (vMF*0.93f) + (vMA*0.93f) + vMG;
+				dMA = vMA - (vMA*0.93f);
+				dMF = vMF - (vMF*0.93f);

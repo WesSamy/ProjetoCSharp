@@ -1,0 +1,8 @@
+D:\C#\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+D:\C#\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+D:\C#\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+D:\C#\Tabuada\Tabuada\obj\Debug\Tabuada.csprojResolveAssemblyReference.cache
+D:\C#\Tabuada\Tabuada\obj\Debug\Tabuada.MainForm.resources
+D:\C#\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.Cache
+D:\C#\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+D:\C#\Tabuada\Tabuada\obj\Debug\Tabuada.pdb

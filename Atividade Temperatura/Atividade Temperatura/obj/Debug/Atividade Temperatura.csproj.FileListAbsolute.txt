@@ -1,0 +1,16 @@
+D:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.exe.config
+D:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.exe
+D:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.pdb
+D:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.csprojResolveAssemblyReference.cache
+D:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade_Temperatura.MainForm.resources
+D:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.csproj.GenerateResource.Cache
+D:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.exe
+D:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.pdb
+E:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.exe.config
+E:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.exe
+E:\C#\Atividade Temperatura\Atividade Temperatura\bin\Debug\Atividade Temperatura.pdb
+E:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.csprojResolveAssemblyReference.cache
+E:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade_Temperatura.MainForm.resources
+E:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.csproj.GenerateResource.Cache
+E:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.exe
+E:\C#\Atividade Temperatura\Atividade Temperatura\obj\Debug\Atividade Temperatura.pdb

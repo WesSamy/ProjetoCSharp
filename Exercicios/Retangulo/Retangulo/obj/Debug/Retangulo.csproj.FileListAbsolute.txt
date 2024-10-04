@@ -1,0 +1,8 @@
+D:\Retangulo\Retangulo\obj\Debug\Retangulo.csprojResolveAssemblyReference.cache
+D:\Retangulo\Retangulo\obj\Debug\Retangulo.MainForm.resources
+D:\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.GenerateResource.Cache
+D:\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+D:\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+D:\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+D:\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+D:\Retangulo\Retangulo\obj\Debug\Retangulo.pdb
