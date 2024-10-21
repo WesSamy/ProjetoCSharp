@@ -1,0 +1,16 @@
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.exe.config
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.exe
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.pdb
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.csprojResolveAssemblyReference.cache
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja_De_Brinquedos_1.MainForm.resources
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.csproj.GenerateResource.Cache
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.exe
+D:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.pdb
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.exe.config
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.exe
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\bin\Debug\Loja De Brinquedos 1.pdb
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.csprojResolveAssemblyReference.cache
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja_De_Brinquedos_1.MainForm.resources
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.csproj.GenerateResource.Cache
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.exe
+E:\C#\Loja de Brinquedos\Loja De Brinquedos 1\Loja De Brinquedos 1\obj\Debug\Loja De Brinquedos 1.pdb

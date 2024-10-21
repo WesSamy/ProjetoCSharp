@@ -1,0 +1,6 @@
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\bin\Debug\Calcule o Salário Liquido.exe.config
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\bin\Debug\Calcule o Salário Liquido.exe
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\bin\Debug\Calcule o Salário Liquido.pdb
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\obj\Debug\Calcule o Salário Liquido.csprojResolveAssemblyReference.cache
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\obj\Debug\Calcule o Salário Liquido.exe
+D:\Calcule o Salário Liquido\Calcule o Salário Liquido\obj\Debug\Calcule o Salário Liquido.pdb

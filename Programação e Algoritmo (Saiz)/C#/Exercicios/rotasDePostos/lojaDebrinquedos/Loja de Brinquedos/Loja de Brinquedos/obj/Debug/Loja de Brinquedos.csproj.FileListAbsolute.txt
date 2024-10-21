@@ -1,0 +1,8 @@
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\bin\Debug\Loja de Brinquedos.exe.config
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\bin\Debug\Loja de Brinquedos.exe
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\bin\Debug\Loja de Brinquedos.pdb
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\obj\Debug\Loja de Brinquedos.csprojResolveAssemblyReference.cache
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\obj\Debug\Loja_de_Brinquedos.MainForm.resources
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\obj\Debug\Loja de Brinquedos.csproj.GenerateResource.Cache
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\obj\Debug\Loja de Brinquedos.exe
+D:\C#\rotasDePostos\lojaDebrinquedos\Loja de Brinquedos\Loja de Brinquedos\obj\Debug\Loja de Brinquedos.pdb

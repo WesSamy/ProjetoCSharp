@@ -1,0 +1,24 @@
+D:\C#\loja\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csprojResolveAssemblyReference.cache
+D:\C#\loja\barraca do Bob\barraca do Bob\obj\Debug\barraca_do_Bob.MainForm.resources
+D:\C#\loja\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csproj.GenerateResource.Cache
+D:\C#\loja\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe.config
+D:\C#\loja\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe
+D:\C#\loja\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.pdb
+D:\C#\loja\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.exe
+D:\C#\loja\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.pdb
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe.config
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.pdb
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csprojResolveAssemblyReference.cache
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca_do_Bob.MainForm.resources
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csproj.GenerateResource.Cache
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.exe
+D:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.pdb
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe.config
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.exe
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\bin\Debug\barraca do Bob.pdb
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csprojResolveAssemblyReference.cache
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca_do_Bob.MainForm.resources
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.csproj.GenerateResource.Cache
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.exe
+E:\C#\Barraca do Bob\barraca do Bob\barraca do Bob\obj\Debug\barraca do Bob.pdb

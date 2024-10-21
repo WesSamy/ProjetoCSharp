@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa_de_limpeza.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.pdb
+E:\C#\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.exe.config
+E:\C#\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.exe
+E:\C#\Empresa de limpeza\Empresa de limpeza\bin\Debug\Empresa de limpeza.pdb
+E:\C#\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.csprojResolveAssemblyReference.cache
+E:\C#\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa_de_limpeza.MainForm.resources
+E:\C#\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.csproj.GenerateResource.Cache
+E:\C#\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.exe
+E:\C#\Empresa de limpeza\Empresa de limpeza\obj\Debug\Empresa de limpeza.pdb

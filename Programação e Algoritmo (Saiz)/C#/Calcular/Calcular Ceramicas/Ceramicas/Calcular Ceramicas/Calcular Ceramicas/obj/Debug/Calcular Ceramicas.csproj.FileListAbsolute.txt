@@ -1,0 +1,24 @@
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe.config
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.pdb
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csprojResolveAssemblyReference.cache
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular_Ceramicas.MainForm.resources
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csproj.GenerateResource.Cache
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.exe
+D:\C#\Nova pasta\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.pdb
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe.config
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.pdb
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csprojResolveAssemblyReference.cache
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular_Ceramicas.MainForm.resources
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csproj.GenerateResource.Cache
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.exe
+E:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.pdb
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe.config
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.exe
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\bin\Debug\Calcular Ceramicas.pdb
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csprojResolveAssemblyReference.cache
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular_Ceramicas.MainForm.resources
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.csproj.GenerateResource.Cache
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.exe
+D:\C#\Calcular Ceramicas\Ceramicas\Calcular Ceramicas\Calcular Ceramicas\obj\Debug\Calcular Ceramicas.pdb

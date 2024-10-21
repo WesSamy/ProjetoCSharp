@@ -1,0 +1,8 @@
+D:\C#\rotasDePostos\rotasDePostos\bin\Debug\rotasDePostos.exe.config
+D:\C#\rotasDePostos\rotasDePostos\bin\Debug\rotasDePostos.exe
+D:\C#\rotasDePostos\rotasDePostos\bin\Debug\rotasDePostos.pdb
+D:\C#\rotasDePostos\rotasDePostos\obj\Debug\rotasDePostos.csprojResolveAssemblyReference.cache
+D:\C#\rotasDePostos\rotasDePostos\obj\Debug\rotasDePostos.MainForm.resources
+D:\C#\rotasDePostos\rotasDePostos\obj\Debug\rotasDePostos.csproj.GenerateResource.Cache
+D:\C#\rotasDePostos\rotasDePostos\obj\Debug\rotasDePostos.exe
+D:\C#\rotasDePostos\rotasDePostos\obj\Debug\rotasDePostos.pdb

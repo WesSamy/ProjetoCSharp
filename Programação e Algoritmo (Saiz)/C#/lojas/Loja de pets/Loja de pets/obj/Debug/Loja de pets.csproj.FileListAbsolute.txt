@@ -1,0 +1,14 @@
+D:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.csprojResolveAssemblyReference.cache
+D:\C#\Loja de pets\Loja de pets\obj\Debug\Loja_de_pets.MainForm.resources
+D:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.csproj.GenerateResource.Cache
+D:\C#\Loja de pets\Loja de pets\bin\Debug\Loja de pets.exe
+D:\C#\Loja de pets\Loja de pets\bin\Debug\Loja de pets.pdb
+D:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.exe
+D:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.pdb
+E:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.csprojResolveAssemblyReference.cache
+E:\C#\Loja de pets\Loja de pets\obj\Debug\Loja_de_pets.MainForm.resources
+E:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.csproj.GenerateResource.Cache
+E:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.exe
+E:\C#\Loja de pets\Loja de pets\bin\Debug\Loja de pets.exe
+E:\C#\Loja de pets\Loja de pets\bin\Debug\Loja de pets.pdb
+E:\C#\Loja de pets\Loja de pets\obj\Debug\Loja de pets.pdb

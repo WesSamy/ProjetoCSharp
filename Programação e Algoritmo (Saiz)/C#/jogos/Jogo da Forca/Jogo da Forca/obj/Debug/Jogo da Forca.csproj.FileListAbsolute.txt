@@ -1,0 +1,16 @@
+D:\C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+D:\C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+D:\C#\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+D:\C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+D:\C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.MainForm.resources
+D:\C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
+D:\C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+D:\C#\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.MainForm.resources
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+E:\Programação e Algoritmo (Saiz)\C#\jogos\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb

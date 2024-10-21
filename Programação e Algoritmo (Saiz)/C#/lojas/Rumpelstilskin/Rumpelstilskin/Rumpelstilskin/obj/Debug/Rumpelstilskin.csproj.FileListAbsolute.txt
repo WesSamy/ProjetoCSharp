@@ -1,0 +1,16 @@
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.exe.config
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.exe
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.pdb
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.csprojResolveAssemblyReference.cache
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.MainForm.resources
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.csproj.GenerateResource.Cache
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.exe
+E:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.pdb
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.exe.config
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.exe
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\bin\Debug\Rumpelstilskin.pdb
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.csprojResolveAssemblyReference.cache
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.MainForm.resources
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.csproj.GenerateResource.Cache
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.exe
+D:\C#\Rumpelstilskin\Rumpelstilskin\Rumpelstilskin\obj\Debug\Rumpelstilskin.pdb

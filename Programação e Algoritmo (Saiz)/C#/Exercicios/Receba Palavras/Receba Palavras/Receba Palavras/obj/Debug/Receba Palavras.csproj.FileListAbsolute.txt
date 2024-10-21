@@ -1,0 +1,8 @@
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\obj\Debug\Receba Palavras.csprojResolveAssemblyReference.cache
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\obj\Debug\Receba_Palavras.MainForm.resources
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\obj\Debug\Receba Palavras.csproj.GenerateResource.Cache
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\bin\Debug\Receba Palavras.exe.config
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\bin\Debug\Receba Palavras.exe
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\bin\Debug\Receba Palavras.pdb
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\obj\Debug\Receba Palavras.exe
+D:\C#\Receba Palavras\Receba Palavras\Receba Palavras\obj\Debug\Receba Palavras.pdb

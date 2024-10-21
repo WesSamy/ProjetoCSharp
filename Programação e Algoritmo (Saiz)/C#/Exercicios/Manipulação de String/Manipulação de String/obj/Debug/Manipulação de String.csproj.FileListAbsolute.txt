@@ -1,0 +1,8 @@
+D:\C#\Manipulação de String\Manipulação de String\bin\Debug\Manipulação de String.exe.config
+D:\C#\Manipulação de String\Manipulação de String\bin\Debug\Manipulação de String.exe
+D:\C#\Manipulação de String\Manipulação de String\bin\Debug\Manipulação de String.pdb
+D:\C#\Manipulação de String\Manipulação de String\obj\Debug\Manipulação de String.csprojResolveAssemblyReference.cache
+D:\C#\Manipulação de String\Manipulação de String\obj\Debug\Manipulação_de_String.MainForm.resources
+D:\C#\Manipulação de String\Manipulação de String\obj\Debug\Manipulação de String.csproj.GenerateResource.Cache
+D:\C#\Manipulação de String\Manipulação de String\obj\Debug\Manipulação de String.exe
+D:\C#\Manipulação de String\Manipulação de String\obj\Debug\Manipulação de String.pdb

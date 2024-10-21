@@ -1,0 +1,8 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\obj\Debug\Vetores (Lista de Nomes).csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\obj\Debug\Vetores__Lista_de_Nomes_.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\obj\Debug\Vetores (Lista de Nomes).csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\bin\Debug\Vetores (Lista de Nomes).exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\bin\Debug\Vetores (Lista de Nomes).exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\bin\Debug\Vetores (Lista de Nomes).pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\obj\Debug\Vetores (Lista de Nomes).exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Vetores (Lista de Nomes)\Vetores (Lista de Nomes)\obj\Debug\Vetores (Lista de Nomes).pdb

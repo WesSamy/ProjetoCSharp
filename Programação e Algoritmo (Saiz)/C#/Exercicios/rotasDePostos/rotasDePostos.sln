@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotasDePostos", "rotasDePostos\rotasDePostos.csproj", "{CBF13D5C-CE2D-4497-ADA0-586545AA8D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF13D5C-CE2D-4497-ADA0-586545AA8D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF13D5C-CE2D-4497-ADA0-586545AA8D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF13D5C-CE2D-4497-ADA0-586545AA8D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF13D5C-CE2D-4497-ADA0-586545AA8D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

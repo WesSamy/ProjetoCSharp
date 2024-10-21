@@ -1,0 +1,16 @@
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.csprojResolveAssemblyReference.cache
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade_INSS.MainForm.resources
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.csproj.GenerateResource.Cache
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\bin\Debug\Atividade INSS.exe
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\bin\Debug\Atividade INSS.pdb
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.exe
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.pdb
+D:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade_INSS.Form1.resources
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\bin\Debug\Atividade INSS.exe
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\bin\Debug\Atividade INSS.pdb
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.csprojResolveAssemblyReference.cache
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade_INSS.Form1.resources
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade_INSS.MainForm.resources
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.csproj.GenerateResource.Cache
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.exe
+E:\Programação e Algoritmo (Saiz)\C#\Atividade INSS (Saiz & Nogueira)\Atividade INSS\Atividade INSS\obj\Debug\Atividade INSS.pdb

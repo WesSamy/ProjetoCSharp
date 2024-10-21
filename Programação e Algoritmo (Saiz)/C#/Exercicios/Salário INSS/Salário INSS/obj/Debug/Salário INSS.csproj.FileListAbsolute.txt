@@ -1,0 +1,24 @@
+D:\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe.config
+D:\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe
+D:\Salário INSS\Salário INSS\bin\Debug\Salário INSS.pdb
+D:\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csprojResolveAssemblyReference.cache
+D:\Salário INSS\Salário INSS\obj\Debug\Salário_INSS.MainForm.resources
+D:\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csproj.GenerateResource.Cache
+D:\Salário INSS\Salário INSS\obj\Debug\Salário INSS.exe
+D:\Salário INSS\Salário INSS\obj\Debug\Salário INSS.pdb
+E:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe.config
+E:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe
+E:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.pdb
+E:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csprojResolveAssemblyReference.cache
+E:\C#\Salário INSS\Salário INSS\obj\Debug\Salário_INSS.MainForm.resources
+E:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csproj.GenerateResource.Cache
+E:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.exe
+E:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.pdb
+D:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe.config
+D:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.exe
+D:\C#\Salário INSS\Salário INSS\bin\Debug\Salário INSS.pdb
+D:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csprojResolveAssemblyReference.cache
+D:\C#\Salário INSS\Salário INSS\obj\Debug\Salário_INSS.MainForm.resources
+D:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.csproj.GenerateResource.Cache
+D:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.exe
+D:\C#\Salário INSS\Salário INSS\obj\Debug\Salário INSS.pdb
